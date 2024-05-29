@@ -1,6 +1,6 @@
 # Drum Kit 
 
-Welcome to the Drum Kit Website project! This project provides an interactive web interface where users can play drum sounds by clicking on drum images or by pressing designated keys on their keyboard. The drum kit includes 4 toms, 1 kick, 1 crash, and 1 snare.
+Welcome to the Drum Kit project! This project provides an interactive web interface where users can play drum sounds by clicking on drum images or by pressing designated keys on their keyboard. The drum kit includes 4 toms, 1 kick, 1 crash, and 1 snare.
 
 ## Features
 
